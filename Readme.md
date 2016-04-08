@@ -1,3 +1,6 @@
+# slackin url
+
+https://iojs-jp-slack.herokuapp.com/
 
 # slackin
 
